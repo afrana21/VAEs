@@ -1,0 +1,10 @@
+{
+    "model": "Improved VAE",
+    "dataset": "MNIST",
+    "latent_dimension": 20,
+    "epochs": 15,
+    "reconstruction_loss": 96.44,
+    "kl_divergence": 11.87,
+    "total_loss": 108.31,
+    "improvement_percent": 11.68
+}
